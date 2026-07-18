@@ -223,7 +223,6 @@ npm start
 - Daily coding challenges
 - Email reminders
 - Dark/Light theme toggle
-- Mobile application
 
 ---
 
@@ -252,16 +251,9 @@ git push origin feature-name
 
 5. Open a Pull Request
 
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 # 👨‍💻 Developed By
 
-**Your Name**
+### Ishita & Neha
 
 Made with ❤️ for competitive coding enthusiasts.
