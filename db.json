@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "user_1",
+      "name": "Ishita",
+      "avatar": "👩‍💻",
+      "color": "purple",
+      "points": 0,
+      "streakCurrent": 0,
+      "streakLongest": 0
+    },
+    {
+      "id": "user_2",
+      "name": "Neha",
+      "avatar": "👨‍💻",
+      "color": "indigo",
+      "points": 0,
+      "streakCurrent": 0,
+      "streakLongest": 0
+    }
+  ],
+  "questions": [],
+  "plans": [],
+  "dailyChallenges": [
+    {
+      "date": "2026-07-18",
+      "name": "Valid Palindrome",
+      "topic": "Two Pointers",
+      "difficulty": "Easy",
+      "points": 10
+    }
+  ]
+}
